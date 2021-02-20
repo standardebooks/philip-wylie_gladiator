@@ -3,4 +3,9 @@
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+	left: 70%;
+}
+
+[epub|type~="z3998:valediction"]{
+	left: 60%;
 }
