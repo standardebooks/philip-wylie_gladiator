@@ -36,7 +36,7 @@
 		<dc:subject id="subject-6">Loneliness -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Muscle strength -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008103511</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
