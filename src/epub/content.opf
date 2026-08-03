@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/philip-wylie/gladiator</dc:identifier>
 		<dc:date>2021-03-16T23:07:58Z</dc:date>
@@ -52,11 +52,11 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man, given superhuman abilities by his scientist father, tries to find purpose and use for his powers.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Gladiator&lt;/i&gt;, first published in 1930, tells the story of Hugo Danner, who is given superhuman speed, endurance, strength, and intelligence by his father as an experiment in creating a better human. We follow Hugo throughout his life viewed from his perspective, from childhood, when Hugo first discovers he’s different from others, to adulthood, as Hugo tries to find a positive outlet for his abilities around the time of the first World War.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Gladiator&lt;/i&gt; has been made into a 1938 comedy movie, and is thought to be the inspiration for the Superman comic books—though this has not been confirmed.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42914</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102007014</dc:source>
